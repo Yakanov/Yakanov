@@ -25,16 +25,17 @@ Passionné par la transformation de données brutes en insights stratégiques, j
 
 ### 🧪 Data Science Tools
 - **Bibliothèques :** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-- **Environnements :** Jupyter Notebook, VS Code.
+- **Environnements :** Jupyter Notebook, VS Code, Pycharm, Intellij, MySQL Workbench.
 
 ---
 
 ## 📂 Projets Phares
 
-### Analyse de la criminalite dans la ville de Los Angeles
-*Description succincte : Analyse de la criminalite dans la ville de Los Angeles de 2020 a 2024, pour identifier les zones les plus criminogenes, les types de crimes repertories, les zones les plus impactees et les populations les plus vulnerables.*
-- **Outils :** Python.
-- **Key Insight :** Central est la zone la plus criminogene de Los Angeles.
+### Gestion_stock et production automatique de rapport Pdf
+
+*Description succincte : Gestion des stocks d'une entreprise dont la base de donnees est sous MySQL, et generation automatique d'un rapport Pdf de l’état du stock actuel à partir d’un fichier .jrxml via JasperReports.*
+- **Outils :** Java par Intellij, MySQL Workbench.
+- **Lien vers le projet : https://github.com/Yakanov/Gestion_stock
 
 
 ---
