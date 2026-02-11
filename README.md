@@ -41,7 +41,7 @@ Passionné par la transformation de données brutes en insights stratégiques, j
 ---
 
 ## 📫 Me contacter
-- **LinkedIn :** https://www.linkedin.com/feed/
+- **LinkedIn :** https://www.linkedin.com/in/danielyakana/
 - **Email :** elyadaj@gmail.com
 
 ---
