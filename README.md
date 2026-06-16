@@ -40,7 +40,12 @@ Passionné par la transformation de données brutes en insights stratégiques, j
 - **Outils :** Java par Intellij, MySQL Workbench.
 - **Lien vers le projet : https://github.com/Yakanov/Gestion_stock
 
+### Pneumonie_Chest_X-ray
 
+*Description succincte : Développer un système d’intelligence artificielle capable d’analyser des radiographies thoraciques (chest X-ray) et de prédire automatiquement si une personne est atteinte de pneumonie ou si ses poumons sont normaux.*
+- **Outils :** Python par Visual Studio Code, avec integration de l'API Flask avec interface web.
+- **Lien vers le projet : https://github.com/Yakanov/Pneumonie_Chest_X-ray
+  
 ---
 
 ## 📫 Me contacter
