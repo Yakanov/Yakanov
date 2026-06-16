@@ -1,6 +1,6 @@
 # Salut, moi c'est Daniel Yakana 👋 
 
-### 📊 Étudiant en Sciences des Données Appliquées
+### 📊 Diplomé en Sciences des Données Appliquées
 Passionné par la transformation de données brutes en insights stratégiques, je combine une expertise technique en programmation avec une maîtrise des outils d'aide à la décision.
 
 ---
