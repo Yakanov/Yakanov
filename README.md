@@ -6,7 +6,7 @@ Passionné par la transformation de données brutes en insights stratégiques, j
 ---
 
 ## 🚀 À propos de moi
-- 🎓 Étudiant en **Sciences des Données Appliquées**.
+- 🎓 DEC en **Sciences des Données Appliquées**.
 - 🔍 Spécialisé dans le nettoyage de données, l'analyse statistique et la visualisation.
 - 💡 Mon objectif : Rendre la donnée parlante pour faciliter la prise de décision.
 
